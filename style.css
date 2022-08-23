@@ -45,6 +45,7 @@ body {
   align-items: center;
   justify-content: space-evenly;
   text-align: center;
+  margin: 20px;
 }
 .card img {
   width: 90%;
