@@ -3,12 +3,6 @@
   margin: 0;
   padding: 0;
 }
-/* ## Colors
-
-- White: hsl(0, 0%, 100%)
-- Light gray: hsl(212, 45%, 89%)
-- Grayish blue: hsl(220, 15%, 55%)
-- Dark blue: hsl(218, 44%, 22%) */
 
 /* TYPOGRAPHY */
 html {
@@ -17,7 +11,7 @@ html {
 body {
   font-size: 1.6rem;
   font-family: 'Outfit', sans-serif;
-  background-color: hsl(220, 15%, 55%);
+  background-color: hsl(212deg 66% 92%);
 }
 .card h1 {
   color: hsl(218, 44%, 22%);
